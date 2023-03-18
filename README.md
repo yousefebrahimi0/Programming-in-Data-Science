@@ -21,3 +21,5 @@ The submission package should correspond to a .zip archive (.rar files are not a
 +    Jupyter Notebook with the output of all the cells;
 +    PDF/HTML of your Jupyter Notebook;
 +    All text or .csv files exported as part of the exercises.
+
+#### Licence: Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND 4.0)
